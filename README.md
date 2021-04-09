@@ -35,6 +35,10 @@ Application note
 MOSFET body diode recovery mechanism in a phase-shifted
 ZVS full bridge DC/DC converter
 
+
+
+
+
 References
 1. L. Saro, et al., "High-Voltage MOSFET Behavior in Soft-Switching Converter: Analysis
 and Reliability Improvements," International Tel-communication Conference, San
@@ -51,5 +55,17 @@ synchronous rectification achieves 92% efficiency"
 
 https://toshiba.semicon-storage.com/ap-en/semiconductor/design-development/referencedesign/articles/phase-shift-full-bridge_power_supply_rd039.html
 Phase-Shift Full Bridge (PSFB) AC-DC Power Supply Basic Simulation Circuit
+
+
+
+
+
+
+https://www.infineon.com/dgdl/s30p5.pdf?fileId=5546d462533600a401535748559c3fcd
+MOSFET Failure Modes in the Zero-Voltage-Switched
+Full-Bridge Switching Mode Power Supply Applications
+
+
+
 
 
