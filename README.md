@@ -49,7 +49,7 @@ synchronous rectification achieves 92% efficiency"
 
 
 
-
-
+https://toshiba.semicon-storage.com/ap-en/semiconductor/design-development/referencedesign/articles/phase-shift-full-bridge_power_supply_rd039.html
+Phase-Shift Full Bridge (PSFB) AC-DC Power Supply Basic Simulation Circuit
 
 
