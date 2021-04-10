@@ -43,11 +43,19 @@ References
 1. L. Saro, et al., "High-Voltage MOSFET Behavior in Soft-Switching Converter: Analysis
 and Reliability Improvements," International Tel-communication Conference, San
 Francisco, 1998.
+
+
 2. Alexander Fiel and Thomas Wu International Rectifier Applications Department El
 Segundo, CA 90245, USA "MOSFET Failure Modes in the Zero-Voltage-Switched FullBridge Switching Mode Power Supply Applications"
+
+
 3. Sampat Shekhawat, Mark Rinehimer and Bob Brockway Discrete Power Group,
 Fairchild Semiconductor AN-7536 "FCS Fast Body Diode MOSFET for Phase-Shifted
 ZVS PWM Full Bridge DC/DC Converter"
+
+https://www.all-electronics.de/wp-content/uploads/migrated/document/112300/203-fairchild-an-7536.pdf
+
+
 4. Laszlo Balogh, "Design review:100 W, 400 kHz, DC/DC converter with current doubler
 synchronous rectification achieves 92% efficiency"
 
